@@ -10,13 +10,13 @@ Orders, Assembly and Test in progress.
 
 Design specifications:
 
-  5 V input
+  -5 V input
   
-  isolated
+  -isolated
   
-  output current ca. 100 mA per rail
+  -output current ca. 100 mA per rail
   
-  can be USB powered
+  -can be USB powered
 
 
 
