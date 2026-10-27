@@ -20,8 +20,8 @@ Design specifications:
 ---
 
 Motivation:  
-Most jellybean LDO regulators offer too high a voltage dropout.
-&nbsp;This constitutes an attempt at building my own regulator, for use in measurement instrumentation.
+Most jellybean LDO regulators offer too high a voltage dropout.  
+This constitutes an attempt at building my own regulator, for use in measurement instrumentation.
 
 
 <img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/f12ff906-62dc-4214-aa55-5e2e08d8e5c3" />
