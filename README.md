@@ -5,5 +5,4 @@ TL431 based LDO regulators for symmetrical power supply.
 
 Showcase and Test of discrete symmetrical LDO regulators.
 
-
-![Schematic_Symmetrical_LDO](Schematic/Symmetrical_LDO_Regulators.pdf)
+<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/f12ff906-62dc-4214-aa55-5e2e08d8e5c3" />
