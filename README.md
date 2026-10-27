@@ -5,6 +5,9 @@ TL431 based LDO regulators for symmetrical power supply.
 
 Showcase and Test of discrete symmetrical LDO regulators.
 
+Orders, Assembly and Test in progress.
+
+
 Design specifications:
 
   5 V input
@@ -15,7 +18,6 @@ Design specifications:
   
   can be USB powered
 
-Orders, Assembly and Test in progress.
 
 
 <img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/f12ff906-62dc-4214-aa55-5e2e08d8e5c3" />
